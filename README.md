@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitLlamma
 - 👀 I’m interested in automating, learning, and hacking everything.
-- 🌱 I’m currently learning how to pen test.
-- 💞️ I’m looking to collaborate on sound design for games.
+- 🌱 I’m currently learning how to pentest.
+- 💞️ I’m looking to collaborate on sound design and music for games.
 - 📫 How to reach me: email me at joshua@esplin.org
 
 <!---
